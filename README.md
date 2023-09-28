@@ -1,0 +1,3 @@
+This is my first piece of code/project that is actually repo'd via git onto github. 
+I havent read through the entire project yet but currently I am assuming that I will be setting up a basic HTML page that lists a recipe.
+I doubt there will be any stylizing or more complicated functionality to the webpage, as the lessons have not gone into CSS or Javascript yet, though I am proficient in those two languages on their own. 
